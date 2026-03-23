@@ -1,34 +1,31 @@
 # Twitter/X Intelligence Suite
 
-12-tool Twitter scraping suite: bookmarks, alpha signals, content, warmup posting, and automation
+**12-tool Twitter scraping suite: bookmarks, alpha signals, content, warmup posting, and automation**
 
 ## Overview
 
-Part of the PRINTMAXX autonomous revenue system — extracted as a standalone project.
+12-tool Twitter scraping suite: bookmarks, alpha signals, content, warmup posting, and automation
 
-## Highlights
+## Tech Stack
+
+python, selenium, playwright, applescript
+
+## Key Points
 
 - 12 specialized Twitter scraping and automation tools
 - AppleScript + Selenium + Playwright: multi-approach resilience
 - Alpha signal extraction from Twitter feeds
 
-## Tech Stack
+## Files
 
-- **python**
-- **selenium**
-- **playwright**
-- **applescript**
+- `twitter_copy_style_ingest.py` (2KB)
+- `twitter_content_scraper.py` (20KB)
+- `twitter_scraper_live.py` (19KB)
+- `twitter_alpha_scraper.py` (41KB)
+- `twitter_bookmarks_scraper.py` (31KB)
 
-## Tags
+## Part of Printmaxx (Meta Business System)
 
-`twitter`, `scraping`, `automation`, `intelligence`, `social-media`
+This is a subsystem of [Printmaxx](https://github.com/fnsmdehip/printmaxx-starter-kit), a 27GB autonomous revenue operating system with 33 agents, 394 scripts, and 5,277 scored revenue methods.
 
-## Project History
-
-- **Active Period:** March 2025 — March 2026
-- **Parent System:** [PRINTMAXX Starter Kit](https://github.com/fnsmdehip/printmaxx-starter-kit)
-- **Built with:** AI pair programming (Claude, Cursor)
-
----
-
-*Part of [DEVPRINT](https://github.com/fnsmdehip/devprint) — 40+ projects built through AI-native development*
+[Full Portfolio](https://devprint-portfolio.surge.sh) | [System Architecture](https://builders-portfolio.surge.sh)
